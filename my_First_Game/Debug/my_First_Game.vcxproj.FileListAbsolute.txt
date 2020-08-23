@@ -1,0 +1,2 @@
+C:\Users\byung\source\repos\CPP_Practice\my_First_Game\Debug\my_First_Game.exe
+C:\Users\byung\source\repos\CPP_Practice\my_First_Game\Debug\my_First_Game.pdb
